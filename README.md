@@ -1,2 +1,2 @@
 # Clustering-HC-Kmeans
-Implementation Of Hierarchical clustering and Kmeans Clustering
+Implementation Of Hierarchical Clustering and Kmeans Clustering
